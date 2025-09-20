@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/10555b62-fcae-4004-a8ca-550c97089d84" /># 🌍 Bloom Tracker Dashboard
+# 🌍 Bloom Tracker Dashboard
 
 A dynamic dashboard to **visualize and track plant blooming events (NDVI) across time** using NASA MODIS data and Google Earth Engine (GEE). This project was developed for hackathon submission to monitor, predict, and manage vegetation changes worldwide.
 
@@ -24,13 +24,13 @@ The dashboard is deployed as a **Google Earth Engine app**:
 
 ## 🗂 Folder Structure
 BloomTracker/
-├─ gee_main.js # Main GEE script for deployment
-├─ ndviLayer.js # NDVI data loading and visualization
-├─ uiPanel.js # UI panel, slider, year selector
-├─ chartHandler.js # Map click and NDVI chart functionality
-├─ dataUtils.js # Helper functions (date preprocessing)
-├─ extraUtils.js # Additional utilities and formatting functions
-├─ README.md # Project description and instructions
+├─ gee_main.js # Main GEE script for deployment/
+├─ ndviLayer.js # NDVI data loading and visualization/
+├─ uiPanel.js # UI panel, slider, year selector/
+├─ chartHandler.js # Map click and NDVI chart functionality/
+├─ dataUtils.js # Helper functions (date preprocessing)/
+├─ extraUtils.js # Additional utilities and formatting functions/
+├─ README.md # Project description and instructions/
 
 
 ---
@@ -86,5 +86,6 @@ BloomTracker/
 ## 👤 Author
 
 **Ankita Giri**  
-Hackathon Submission  , NASA Space Apps Challenge Noida 2025
+Hackathon Submission  , NASA Space Apps Challenge Noida 2025/
 **Date:** 20th September 2025
+
