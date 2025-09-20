@@ -28,7 +28,7 @@ BloomTracker\
 ├─ chartHandler.js # Map click and NDVI chart functionality \
 ├─ dataUtils.js # Helper functions (date preprocessing) \
 ├─ extraUtils.js # Additional utilities and formatting functions \
-├─ README.md # Project description and instructions \
+├─ README.md # Project description and instructions 
 
 
 
@@ -82,8 +82,9 @@ BloomTracker\
 ## 👤 Author
 
 **Ankita Giri**  
-Hackathon Submission/NASA Space Apps Challenge Noida 2025
+Hackathon Submission/NASA Space Apps Challenge Noida 2025 \
 **Date:** 20th September 2025
+
 
 
 
