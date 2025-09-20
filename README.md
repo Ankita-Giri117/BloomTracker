@@ -21,17 +21,16 @@ The dashboard is deployed as a **Google Earth Engine app**:
 
 
 ## 🗂 Folder Structure
-BloomTracker/
-├─ gee_main.js # Main GEE script for deployment \n
-├─ ndviLayer.js # NDVI data loading and visualization/
-├─ uiPanel.js # UI panel, slider, year selector/
-├─ chartHandler.js # Map click and NDVI chart functionality/
-├─ dataUtils.js # Helper functions (date preprocessing)/
-├─ extraUtils.js # Additional utilities and formatting functions/
-├─ README.md # Project description and instructions/
+BloomTracker\
+├─ gee_main.js # Main GEE script for deployment \
+├─ ndviLayer.js # NDVI data loading and visualization \
+├─ uiPanel.js # UI panel, slider, year selector \
+├─ chartHandler.js # Map click and NDVI chart functionality \
+├─ dataUtils.js # Helper functions (date preprocessing) \
+├─ extraUtils.js # Additional utilities and formatting functions \
+├─ README.md # Project description and instructions \
 
 
----
 
 ## 🛠 How to Run
 
@@ -72,7 +71,7 @@ BloomTracker/
 - Built with **Google Earth Engine** for data processing and visualization.  
 - UI developed using **Earth Engine UI API**.  
 
----
+
 
 ## ⚡ Future Improvements
 
@@ -85,6 +84,7 @@ BloomTracker/
 **Ankita Giri**  
 Hackathon Submission/NASA Space Apps Challenge Noida 2025
 **Date:** 20th September 2025
+
 
 
 
