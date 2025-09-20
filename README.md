@@ -9,7 +9,6 @@ A dynamic dashboard to **visualize and track plant blooming events (NDVI) across
 The dashboard is deployed as a **Google Earth Engine app**:  
 [🌸 Open Bloom Tracker Dashboard](https://bloom-time-lapse-map.projects.earthengine.app/view/bloom-tracker-dashboard)
 
-
 ## 📌 Features
 
 - **Year Selector**: Choose from multiple years (2015, 2018, 2020, 2023, 2025).  
@@ -84,6 +83,7 @@ BloomTracker\
 **Ankita Giri**  
 Hackathon Submission/NASA Space Apps Challenge Noida 2025 \
 **Date:** 20th September 2025
+
 
 
 
